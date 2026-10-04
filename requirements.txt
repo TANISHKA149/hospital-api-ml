@@ -7,3 +7,4 @@ scikit-learn
 pytesseract
 Pillow
 pdf2image
+imbalanced-learn
